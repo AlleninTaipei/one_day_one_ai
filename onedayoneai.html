@@ -117,30 +117,45 @@ a:hover { color: var(--accent-hover); }
 }
 .field .desc { color: var(--text-muted); margin-top: 6px; font-size: 0.85rem; }
 
-.cat-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(275px, 1fr));
-  gap: 12px;
-  margin-top: 4px;
+.cat-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 18px;
 }
-.cat-card {
+.cat-tab {
   background: var(--bg-card);
   border: 1px solid var(--border);
-  border-radius: 10px;
-  padding: 16px 20px;
-  transition: border-color 0.2s, background 0.2s;
+  color: var(--text-secondary);
+  font-family: inherit;
+  font-size: 0.82rem;
+  font-weight: 500;
+  padding: 8px 18px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background 0.18s, border-color 0.18s, color 0.18s;
 }
-.cat-card:hover { border-color: var(--accent); background: var(--bg-hover); }
-.cat-card h3 { margin-top: 0; font-size: 0.85rem; color: var(--accent); margin-bottom: 10px; letter-spacing: 0.01em; }
-.cat-card ul { margin-left: 1em; }
-.cat-card li { font-size: 0.76rem; line-height: 1.75; color: var(--text-muted); }
-.cat-card li a {
-  color: var(--text-muted);
+.cat-tab:hover { border-color: var(--accent); color: var(--accent); }
+.cat-tab.is-active { background: var(--accent); border-color: var(--accent); color: var(--bg); }
+.cat-tab .count { margin-left: 5px; font-size: 0.85em; opacity: 0.75; }
+
+.cat-panel {
+  display: none;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px 26px;
+}
+.cat-panel.is-active { display: block; }
+.cat-panel ul { margin-left: 1.2em; }
+.cat-panel li { font-size: 0.85rem; line-height: 1.9; color: var(--text-muted); }
+.cat-panel li a {
+  color: var(--text-secondary);
   text-decoration: none;
   border-bottom: 1px solid transparent;
   transition: color 0.15s, border-color 0.15s;
 }
-.cat-card li a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.cat-panel li a:hover { color: var(--accent); border-bottom-color: var(--accent); }
 
 .table-wrap { width: 100%; overflow-x: auto; margin-top: 6px; }
 table { width: 100%; border-collapse: collapse; font-size: clamp(0.75rem, 1.2vw, 0.9rem); }
@@ -199,7 +214,7 @@ tbody td a:hover { background: var(--accent); color: var(--bg); opacity: 1; }
 ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
 
 @media (max-width: 640px) {
-  .api-fields, .cat-grid { grid-template-columns: 1fr; }
+  .api-fields { grid-template-columns: 1fr; }
 }
 </style>
 </head>
@@ -244,9 +259,18 @@ tbody td a:hover { background: var(--accent); color: var(--bg); opacity: 1; }
 
   <section>
     <h2>主題分類</h2>
-    <div class="cat-grid">
-      <div class="cat-card">
-        <h3>提示詞技巧（Prompt Engineering）</h3>
+    <div class="cat-tabs" role="tablist">
+      <button type="button" class="cat-tab is-active" data-target="cat-prompt" role="tab" aria-selected="true">提示詞技巧<span class="count">19</span></button>
+      <button type="button" class="cat-tab" data-target="cat-tools" role="tab" aria-selected="false">工具應用<span class="count">30</span></button>
+      <button type="button" class="cat-tab" data-target="cat-work" role="tab" aria-selected="false">職場效率<span class="count">22</span></button>
+      <button type="button" class="cat-tab" data-target="cat-translate" role="tab" aria-selected="false">翻譯與語言<span class="count">6</span></button>
+      <button type="button" class="cat-tab" data-target="cat-learn" role="tab" aria-selected="false">學習與個人成長<span class="count">14</span></button>
+      <button type="button" class="cat-tab" data-target="cat-health" role="tab" aria-selected="false">醫療與健康<span class="count">5</span></button>
+      <button type="button" class="cat-tab" data-target="cat-life" role="tab" aria-selected="false">生活應用<span class="count">9</span></button>
+      <button type="button" class="cat-tab" data-target="cat-privacy" role="tab" aria-selected="false">AI 隱私安全＆企業策略<span class="count">9</span></button>
+    </div>
+    <div class="cat-panels">
+      <div class="cat-panel is-active" id="cat-prompt" role="tabpanel">
         <ul>
           <li><a href="https://www.bnext.com.tw/article/91309/ai-tool-chatgpt-claude-gemini-compare-4-steps" target="_blank">AI工具太多選不了？2個提示詞做出互動頁面，點任務就知道該用誰</a></li>
           <li><a href="https://www.bnext.com.tw/article/91300/adhd-ai-working-memory-tips" target="_blank">ADHD工作者用AI更省力！4個提示詞技巧解決「執行障礙」、「容易忘記」</a></li>
@@ -269,8 +293,7 @@ tbody td a:hover { background: var(--accent); color: var(--bg); opacity: 1; }
           <li><a href="https://www.bnext.com.tw/article/85498/ai-command-evolution" target="_blank">我被 AI 嫌「沒效率」後，學會一套更聰明指令思維</a></li>
         </ul>
       </div>
-      <div class="cat-card">
-        <h3>工具應用（Tools）</h3>
+      <div class="cat-panel" id="cat-tools" role="tabpanel">
         <ul>
           <li><a href="https://www.bnext.com.tw/article/91406/ai-studio-gemini-no-code-app" target="_blank">不會寫程式，他用AI Studio做出飲控App！關鍵技巧是讓Gemini「分飾三角色」</a></li>
           <li><a href="https://www.bnext.com.tw/article/91391/chatgpt-voice-fill-english-form" target="_blank">看不懂英文表格、又不想打字？ChatGPT這樣用，直接幫你輸出Word檔</a></li>
@@ -304,8 +327,7 @@ tbody td a:hover { background: var(--accent); color: var(--bg); opacity: 1; }
           <li><a href="https://www.bnext.com.tw/article/90832/ai-career-gemini-resume-guide" target="_blank">免費版Gemini變身求職神器！</a></li>
         </ul>
       </div>
-      <div class="cat-card">
-        <h3>職場效率（Workplace Productivity）</h3>
+      <div class="cat-panel" id="cat-work" role="tabpanel">
         <ul>
           <li><a href="https://www.bnext.com.tw/article/91391/chatgpt-voice-fill-english-form" target="_blank">看不懂英文表格、又不想打字？ChatGPT這樣用，直接幫你輸出Word檔</a></li>
           <li><a href="https://www.bnext.com.tw/article/91377/ai-daily-reading-assistant-400-words" target="_blank">收藏一堆文章永遠讀不完？這套私藏AI策展工作流，每天推400字幫你讀完</a></li>
@@ -331,8 +353,7 @@ tbody td a:hover { background: var(--accent); color: var(--bg); opacity: 1; }
           <li><a href="https://www.bnext.com.tw/article/85287/ai-for-managers" target="_blank">管理者都是怎麼用AI的？日本企業訪談50人</a></li>
         </ul>
       </div>
-      <div class="cat-card">
-        <h3>翻譯與語言（Translation &amp; Language）</h3>
+      <div class="cat-panel" id="cat-translate" role="tabpanel">
         <ul>
           <li><a href="https://www.bnext.com.tw/article/90644/ai-english-speaking-coach-tips" target="_blank">文藻翻譯系主任推薦！5步驟讓AI當你的英語口說家教</a></li>
           <li><a href="https://www.bnext.com.tw/article/90241/ai-ppt-translation-expert-tips" target="_blank">AI簡報中翻英，專業關鍵在這5點！翻譯系主任教你眉角</a></li>
@@ -342,8 +363,7 @@ tbody td a:hover { background: var(--accent); color: var(--bg); opacity: 1; }
           <li><a href="https://www.bnext.com.tw/article/90047/ai-translation-professional-guide-from-professor" target="_blank">AI 商業翻譯好用嗎？翻譯系主任指出 4 大盲點</a></li>
         </ul>
       </div>
-      <div class="cat-card">
-        <h3>學習與個人成長</h3>
+      <div class="cat-panel" id="cat-learn" role="tabpanel">
         <ul>
           <li><a href="https://www.bnext.com.tw/article/91377/ai-daily-reading-assistant-400-words" target="_blank">收藏一堆文章永遠讀不完？這套私藏AI策展工作流，每天推400字幫你讀完</a></li>
           <li><a href="https://www.bnext.com.tw/article/91196/stop-ai-thinking-for-you" target="_blank">AI怎麼用才不會把思考外包？先不要問「意見」，可以問3件事</a></li>
@@ -361,8 +381,7 @@ tbody td a:hover { background: var(--accent); color: var(--bg); opacity: 1; }
           <li><a href="https://www.bnext.com.tw/article/90052/ai-thought-log-onboarding-manual" target="_blank">科技大佬、AI 大神都這樣用！先輸入「你的使用說明書」</a></li>
         </ul>
       </div>
-      <div class="cat-card">
-        <h3>醫療與健康</h3>
+      <div class="cat-panel" id="cat-health" role="tabpanel">
         <ul>
           <li><a href="https://www.bnext.com.tw/article/91275/ai-medical-record-summary-guide" target="_blank">AI整理病歷怎麼做？用Claude 4步驟比對跨科別紀錄</a></li>
           <li><a href="https://www.bnext.com.tw/article/90869/ai-medical-communication-guide-tips" target="_blank">AI幫你整理醫師提問清單！15分鐘診間問出重點</a></li>
@@ -371,8 +390,7 @@ tbody td a:hover { background: var(--accent); color: var(--bg); opacity: 1; }
           <li><a href="https://www.bnext.com.tw/article/90607/ai-health-watch-data-guide" target="_blank">智慧手錶這3個數字最值得跟AI討論！打造AI健康教練</a></li>
         </ul>
       </div>
-      <div class="cat-card">
-        <h3>生活應用</h3>
+      <div class="cat-panel" id="cat-life" role="tabpanel">
         <ul>
           <li><a href="https://www.bnext.com.tw/article/91406/ai-studio-gemini-no-code-app" target="_blank">不會寫程式，他用AI Studio做出飲控App！關鍵技巧是讓Gemini「分飾三角色」</a></li>
           <li><a href="https://www.bnext.com.tw/article/91356/dad-claude-voice-app-selective-mutism" target="_blank">「我只是用AI，解決孩子的真實問題」他用Claude做語音練習App</a></li>
@@ -385,8 +403,7 @@ tbody td a:hover { background: var(--accent); color: var(--bg); opacity: 1; }
           <li><a href="https://www.bnext.com.tw/article/85607/ai-job-search-good-company" target="_blank">不用狂滑求職網站！怎樣用 AI 找工作、順利轉職？</a></li>
         </ul>
       </div>
-      <div class="cat-card">
-        <h3>AI 隱私安全 ＆ 企業策略</h3>
+      <div class="cat-panel" id="cat-privacy" role="tabpanel">
         <ul>
           <li><a href="https://www.bnext.com.tw/article/91324/hr-it-merge-ai-agent-moderna-bunq" target="_blank">不只管人、還要管AI！莫德納把「HR和IT」大合併，背後邏輯是什麼</a></li>
           <li><a href="https://www.bnext.com.tw/article/91221/ai-knowledge-transfer-manufacturing" target="_blank">華夏玻璃用1000份手稿做成「AI知識庫」，3個盤點複製傳承法</a></li>
@@ -549,6 +566,18 @@ function applyTheme(light) {
 }
 themeToggle.addEventListener('click', () => applyTheme(!document.body.classList.contains('light')));
 applyTheme(localStorage.getItem('theme') === 'light');
+
+const catTabs = document.querySelectorAll('.cat-tab');
+const catPanels = document.querySelectorAll('.cat-panel');
+catTabs.forEach(tab => {
+  tab.addEventListener('click', () => {
+    catTabs.forEach(t => { t.classList.remove('is-active'); t.setAttribute('aria-selected', 'false'); });
+    catPanels.forEach(p => p.classList.remove('is-active'));
+    tab.classList.add('is-active');
+    tab.setAttribute('aria-selected', 'true');
+    document.getElementById(tab.dataset.target).classList.add('is-active');
+  });
+});
 </script>
 </body>
 </html>
