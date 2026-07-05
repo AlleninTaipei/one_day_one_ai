@@ -50,7 +50,7 @@ URL 中的 article ID（如 `/article/91069/`）為唯一識別碼。
 
 1. `<header>`：更新整理日期與文章總數
 2. 更新摘要 `<section>`：更新四個 `.field` 卡片（總數、新增數、分類數、日期）
-3. 主題分類 `<section>`：更新 `.cat-card` 條目，每個 `<li>` 必須有 `<a href="..." target="_blank">` 連結
+3. 主題分類 `<section>`：新文章加入對應 `.cat-panel` 內的 `<ul>`（`<li>` 必須有 `<a href="..." target="_blank">` 連結），並同步更新對應 `.cat-tab` 上的 `<span class="count">` 篇數
 4. 第一頁至第三頁文章表格 `<section>`：在對應頁次表格頂端插入新文章列，加上 `class="is-new"`
 
 ---
@@ -143,18 +143,28 @@ URL 中的 article ID（如 `/article/91069/`）為唯一識別碼。
 </div>
 ```
 
-### 主題分類卡片格式
+### 主題分類 nav 格式
 
-每個分類為一個 `.cat-card`，放在 `.cat-grid` 內，條目必須是可點擊連結：
+主題分類採分類標籤 nav 加篩選：上方一排 `.cat-tab` 按鈕（`.cat-tabs` 內），下方對應 `.cat-panel` 面板（`.cat-panels` 內），同一時間只顯示一個作用中面板，透過 JS 依 `data-target` 與面板 `id` 對應切換：
 
 ```html
-<div class="cat-card">
-  <h3>分類名稱</h3>
-  <ul>
-    <li><a href="https://www.bnext.com.tw/article/..." target="_blank">文章標題</a></li>
-  </ul>
+<div class="cat-tabs" role="tablist">
+  <button type="button" class="cat-tab is-active" data-target="cat-prompt" role="tab" aria-selected="true">分類名稱<span class="count">19</span></button>
+  <button type="button" class="cat-tab" data-target="cat-tools" role="tab" aria-selected="false">分類名稱<span class="count">30</span></button>
+</div>
+<div class="cat-panels">
+  <div class="cat-panel is-active" id="cat-prompt" role="tabpanel">
+    <ul>
+      <li><a href="https://www.bnext.com.tw/article/..." target="_blank">文章標題</a></li>
+    </ul>
+  </div>
+  <div class="cat-panel" id="cat-tools" role="tabpanel">
+    <ul>...</ul>
+  </div>
 </div>
 ```
+
+新增文章到既有分類時，於對應 `.cat-panel` 的 `<ul>` 內插入 `<li>`，並將該分類 `.cat-tab` 的 `<span class="count">` 數字加一；新增分類時需同時新增一個 `.cat-tab` 按鈕與對應 `.cat-panel`，`data-target` 與 `id` 需一致。
 
 ### 新文章標示
 
