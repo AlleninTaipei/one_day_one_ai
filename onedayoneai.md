@@ -1,8 +1,8 @@
 # 一天一AI — 文章摘要總覽
 
 > 來源：[數位時代「一天一AI」專欄](https://www.bnext.com.tw/tags/%E4%B8%80%E5%A4%A9%E4%B8%80AI)  
-> 整理日期：2026-07-23  
-> 共計 3 頁、117 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
+> 整理日期：2026-07-28  
+> 共計 3 頁、120 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
 
 ---
 
@@ -10,16 +10,17 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 117 篇 |
-| 本次新增 | 2 篇 |
+| 文章總數 | 120 篇 |
+| 本次新增 | 3 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-07-23 |
+| 更新日期 | 2026-07-28 |
 
 ---
 
 ## 主題分類
 
 ### 提示詞技巧（Prompt Engineering）
+- PDF轉Markdown怎麼做？這段提示詞貼給Claude，就能成AI讀得懂的md檔
 - 越用AI越怕自己變笨？它答得漂亮時反問「這一句」，偷學工程師的解題心法
 - 非工程師，怎麼建立你的AI Agent？他實戰後建議：先「反向拆解工作流」！
 - AI改了十遍還是不對？Anthropic工程師「盲點巡查」提示詞，逼AI動工前先問對問題
@@ -46,6 +47,8 @@
 - Google產品經理原來是這樣用AI的！3步驟建立客戶人設
 
 ### 工具應用（Tools）
+- PDF轉Markdown怎麼做？這段提示詞貼給Claude，就能成AI讀得懂的md檔
+- 券商分析師怎麼用AI做研究？他讓NotebookLM、Gemini、Claude三個AI接力，養出專屬產業大腦
 - ChatGPT Work怎麼用？丟進會議紀錄，它自動幫你把目標、風險寫成一份簡報
 - 家人突住院，保單卻看不懂能賠多少？我用Gemini Notebook建一本隨時能問的理賠筆記
 - Vibe coding做出來卻不會分享？ChatGPT新功能用一句話幫你部署，全程沒寫程式碼
@@ -87,6 +90,8 @@
 - 免費版Gemini變身求職神器！
 
 ### 職場效率（Workplace Productivity）
+- 想推業務員用AI卻沒人買單？Salesforce報告給了4個讓人有感的用法
+- 券商分析師怎麼用AI做研究？他讓NotebookLM、Gemini、Claude三個AI接力，養出專屬產業大腦
 - ChatGPT Work怎麼用？丟進會議紀錄，它自動幫你把目標、風險寫成一份簡報
 - 非工程師，怎麼建立你的AI Agent？他實戰後建議：先「反向拆解工作流」！
 - 別再翻舊筆記！主管用Claude建1-on-1系統，面談前5分鐘就備好完整議程
@@ -181,6 +186,9 @@
 
 | 標題 | 發布時間 | 連結 |
 |------|----------|------|
+| PDF轉Markdown怎麼做？這段提示詞貼給Claude，就能成AI讀得懂的md檔 | 4小時前 | [閱讀](https://www.bnext.com.tw/article/91640/pdf-to-markdown-claude-prompt) |
+| 想推業務員用AI卻沒人買單？Salesforce報告給了4個讓人有感的用法 | 4天前 | [閱讀](https://www.bnext.com.tw/article/91612/salesforce-ai-sales-use-cases) |
+| 券商分析師怎麼用AI做研究？他讓NotebookLM、Gemini、Claude三個AI接力，養出專屬產業大腦 | 5天前 | [閱讀](https://www.bnext.com.tw/article/91590/notebooklm-gemini-claude-ai-research-workflow) |
 | ChatGPT Work怎麼用？丟進會議紀錄，它自動幫你把目標、風險寫成一份簡報 | 1天前 | [閱讀](https://www.bnext.com.tw/article/91563/chatgpt-work-meeting-notes-presentation) |
 | 越用AI越怕自己變笨？它答得漂亮時反問「這一句」，偷學工程師的解題心法 | 2天前 | [閱讀](https://www.bnext.com.tw/article/91562/ai-follow-up-question-reasoning) |
 | 家人突住院，保單卻看不懂能賠多少？我用Gemini Notebook建一本隨時能問的理賠筆記 | 23小時前 | [閱讀](https://www.bnext.com.tw/article/91550/gemini-notebook-insurance-claim-notes) |
