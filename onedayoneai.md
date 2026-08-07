@@ -1,8 +1,8 @@
 # 一天一AI — 文章摘要總覽
 
 > 來源：[數位時代「一天一AI」專欄](https://www.bnext.com.tw/tags/%E4%B8%80%E5%A4%A9%E4%B8%80AI)  
-> 整理日期：2026-07-31  
-> 共計 3 頁、123 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
+> 整理日期：2026-08-07  
+> 共計 3 頁、127 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
 
 ---
 
@@ -10,16 +10,17 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 123 篇 |
-| 本次新增 | 3 篇 |
+| 文章總數 | 127 篇 |
+| 本次新增 | 4 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-07-31 |
+| 更新日期 | 2026-08-07 |
 
 ---
 
 ## 主題分類
 
 ### 提示詞技巧（Prompt Engineering）
+- AI把簡報做得很漂亮，你卻答不出為何這頁要這樣寫？先問這4題再開工具
 - 一次改好10個對話標題！Claude Code貼上這段提示詞，舊紀錄自動變成日期＋對象＋主題
 - 懶得打字寫提示詞？Mac開聽寫、Windows按Win＋H，對AI碎念10分鐘它就能抓重點
 - PDF轉Markdown怎麼做？這段提示詞貼給Claude，就能成AI讀得懂的md檔
@@ -49,6 +50,9 @@
 - Google產品經理原來是這樣用AI的！3步驟建立客戶人設
 
 ### 工具應用（Tools）
+- 周報自己整理到厭世？實測Gemini Spark，可讀Gmail和日曆，每周五自動寄給團隊
+- 跟AI說「別回傳資料」沒有用！安裝Skill前，先把這行網址設定刪掉
+- 受不了ChatGPT講一堆廢話？裝上這個開源技能，10條規則讓它直接給下一步
 - 一次改好10個對話標題！Claude Code貼上這段提示詞，舊紀錄自動變成日期＋對象＋主題
 - 懶得打字寫提示詞？Mac開聽寫、Windows按Win＋H，對AI碎念10分鐘它就能抓重點
 - PDF轉Markdown怎麼做？這段提示詞貼給Claude，就能成AI讀得懂的md檔
@@ -94,6 +98,9 @@
 - 免費版Gemini變身求職神器！
 
 ### 職場效率（Workplace Productivity）
+- 周報自己整理到厭世？實測Gemini Spark，可讀Gmail和日曆，每周五自動寄給團隊
+- AI把簡報做得很漂亮，你卻答不出為何這頁要這樣寫？先問這4題再開工具
+- 受不了ChatGPT講一堆廢話？裝上這個開源技能，10條規則讓它直接給下一步
 - 想推業務員用AI卻沒人買單？Salesforce報告給了4個讓人有感的用法
 - 券商分析師怎麼用AI做研究？他讓NotebookLM、Gemini、Claude三個AI接力，養出專屬產業大腦
 - ChatGPT Work怎麼用？丟進會議紀錄，它自動幫你把目標、風險寫成一份簡報
@@ -173,6 +180,7 @@
 - 不用狂滑求職網站！怎樣用 AI 找工作、順利轉職？
 
 ### AI 隱私安全 ＆ 企業策略
+- 跟AI說「別回傳資料」沒有用！安裝Skill前，先把這行網址設定刪掉
 - 你傳給同事的Claude對話，Google搜得到！用一行語法自己查，公司機密有沒有外流
 - 在公司推AI，同事一周就打回原形？他用「3層知識庫」把流程變成按鈕
 - 不只管人、還要管AI！莫德納把「HR和IT」大合併，背後邏輯是什麼
@@ -191,6 +199,10 @@
 
 | 標題 | 發布時間 | 連結 |
 |------|----------|------|
+| 周報自己整理到厭世？實測Gemini Spark，可讀Gmail和日曆，每周五自動寄給團隊 | 23小時前 | [閱讀](https://www.bnext.com.tw/article/91752/gemini-spark-weekly-report-automation) |
+| AI把簡報做得很漂亮，你卻答不出為何這頁要這樣寫？先問這4題再開工具 | 2天前 | [閱讀](https://www.bnext.com.tw/article/91734/ai-presentation-four-questions) |
+| 跟AI說「別回傳資料」沒有用！安裝Skill前，先把這行網址設定刪掉 | 2天前 | [閱讀](https://www.bnext.com.tw/article/91721/github-skill-install-security-check) |
+| 受不了ChatGPT講一堆廢話？裝上這個開源技能，10條規則讓它直接給下一步 | 3天前 | [閱讀](https://www.bnext.com.tw/article/91704/chatgpt-i-have-adhd-skill) |
 | 一次改好10個對話標題！Claude Code貼上這段提示詞，舊紀錄自動變成日期＋對象＋主題 | 8小時前 | [閱讀](https://www.bnext.com.tw/article/91678/claude-code-rename-chat-titles) |
 | 懶得打字寫提示詞？Mac開聽寫、Windows按Win＋H，對AI碎念10分鐘它就能抓重點 | 1天前 | [閱讀](https://www.bnext.com.tw/article/91664/voice-dictation-ai-prompt) |
 | 你傳給同事的Claude對話，Google搜得到！用一行語法自己查，公司機密有沒有外流 | 1天前 | [閱讀](https://www.bnext.com.tw/article/91663/claude-share-link-leak-self-check) |
