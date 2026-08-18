@@ -1,8 +1,8 @@
 # 一天一AI — 文章摘要總覽
 
 > 來源：[數位時代「一天一AI」專欄](https://www.bnext.com.tw/tags/%E4%B8%80%E5%A4%A9%E4%B8%80AI)  
-> 整理日期：2026-08-11  
-> 共計 3 頁、130 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
+> 整理日期：2026-08-18  
+> 共計 3 頁、133 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
 
 ---
 
@@ -10,16 +10,18 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 130 篇 |
+| 文章總數 | 133 篇 |
 | 本次新增 | 3 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-08-11 |
+| 更新日期 | 2026-08-18 |
 
 ---
 
 ## 主題分類
 
 ### 提示詞技巧（Prompt Engineering）
+- ChatGPT語音陪你面試、談加薪！超真人對話降低緊張感，完整提示詞一次收藏
+- 每次叫AI做事都要交代「不要猜」？這5條守則貼給它，開工前再也不用囉哩八唆
 - AI說成交率30%「非常優秀」，報告完被主管秒打臉！3段提示詞抓出數據解讀盲點
 - AI做出來的東西老是歪掉？貼上這段提示詞，讓它先反過來拷問你再動手
 - 小孩哭鬧怎麼辦？這段AI提示詞幫他說出「委屈」還是「失望」，一起接住情緒包
@@ -53,6 +55,7 @@
 - Google產品經理原來是這樣用AI的！3步驟建立客戶人設
 
 ### 工具應用（Tools）
+- 每月月報格式重排到厭世？實測Gemini in Sheets，丟上月報表當範本，排序小計公式一次到位
 - 周報自己整理到厭世？實測Gemini Spark，可讀Gmail和日曆，每周五自動寄給團隊
 - 跟AI說「別回傳資料」沒有用！安裝Skill前，先把這行網址設定刪掉
 - 受不了ChatGPT講一堆廢話？裝上這個開源技能，10條規則讓它直接給下一步
@@ -101,6 +104,8 @@
 - 免費版Gemini變身求職神器！
 
 ### 職場效率（Workplace Productivity）
+- ChatGPT語音陪你面試、談加薪！超真人對話降低緊張感，完整提示詞一次收藏
+- 每月月報格式重排到厭世？實測Gemini in Sheets，丟上月報表當範本，排序小計公式一次到位
 - AI說成交率30%「非常優秀」，報告完被主管秒打臉！3段提示詞抓出數據解讀盲點
 - 周報自己整理到厭世？實測Gemini Spark，可讀Gmail和日曆，每周五自動寄給團隊
 - AI把簡報做得很漂亮，你卻答不出為何這頁要這樣寫？先問這4題再開工具
@@ -204,9 +209,12 @@
 
 | 標題 | 發布時間 | 連結 |
 |------|----------|------|
-| 小孩哭鬧怎麼辦？這段AI提示詞幫他說出「委屈」還是「失望」，一起接住情緒包 | 53分前 | [閱讀](https://www.bnext.com.tw/article/91810/ai-kids-emotion-naming-prompt) |
-| AI說成交率30%「非常優秀」，報告完被主管秒打臉！3段提示詞抓出數據解讀盲點 | 21小時前 | [閱讀](https://www.bnext.com.tw/article/91792/ai-data-analysis-bias-prompt) |
-| AI做出來的東西老是歪掉？貼上這段提示詞，讓它先反過來拷問你再動手 | 3天前 | [閱讀](https://www.bnext.com.tw/article/91778/claude-grill-me-prompt) |
+| ChatGPT語音陪你面試、談加薪！超真人對話降低緊張感，完整提示詞一次收藏 | 17小時前 | [閱讀](https://www.bnext.com.tw/article/91888/chatgpt-voice-conversation-rehearsal) |
+| 每次叫AI做事都要交代「不要猜」？這5條守則貼給它，開工前再也不用囉哩八唆 | 3天前 | [閱讀](https://www.bnext.com.tw/article/91861/ai-collaboration-rules-prompt) |
+| 每月月報格式重排到厭世？實測Gemini in Sheets，丟上月報表當範本，排序小計公式一次到位 | 5天前 | [閱讀](https://www.bnext.com.tw/article/91828/gemini-sheets-monthly-report-format) |
+| 小孩哭鬧怎麼辦？這段AI提示詞幫他說出「委屈」還是「失望」，一起接住情緒包 | 6天前 | [閱讀](https://www.bnext.com.tw/article/91810/ai-kids-emotion-naming-prompt) |
+| AI說成交率30%「非常優秀」，報告完被主管秒打臉！3段提示詞抓出數據解讀盲點 | 1星期前 | [閱讀](https://www.bnext.com.tw/article/91792/ai-data-analysis-bias-prompt) |
+| AI做出來的東西老是歪掉？貼上這段提示詞，讓它先反過來拷問你再動手 | 1星期前 | [閱讀](https://www.bnext.com.tw/article/91778/claude-grill-me-prompt) |
 | 周報自己整理到厭世？實測Gemini Spark，可讀Gmail和日曆，每周五自動寄給團隊 | 23小時前 | [閱讀](https://www.bnext.com.tw/article/91752/gemini-spark-weekly-report-automation) |
 | AI把簡報做得很漂亮，你卻答不出為何這頁要這樣寫？先問這4題再開工具 | 2天前 | [閱讀](https://www.bnext.com.tw/article/91734/ai-presentation-four-questions) |
 | 跟AI說「別回傳資料」沒有用！安裝Skill前，先把這行網址設定刪掉 | 2天前 | [閱讀](https://www.bnext.com.tw/article/91721/github-skill-install-security-check) |
