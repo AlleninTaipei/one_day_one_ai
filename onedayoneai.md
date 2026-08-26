@@ -1,8 +1,8 @@
 # 一天一AI — 文章摘要總覽
 
 > 來源：[數位時代「一天一AI」專欄](https://www.bnext.com.tw/tags/%E4%B8%80%E5%A4%A9%E4%B8%80AI)  
-> 整理日期：2026-08-18  
-> 共計 3 頁、133 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
+> 整理日期：2026-08-26  
+> 共計 3 頁、139 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
 
 ---
 
@@ -10,16 +10,19 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 133 篇 |
-| 本次新增 | 3 篇 |
+| 文章總數 | 139 篇 |
+| 本次新增 | 6 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-08-18 |
+| 更新日期 | 2026-08-26 |
 
 ---
 
 ## 主題分類
 
 ### 提示詞技巧（Prompt Engineering）
+- 提案總被主管退回重改？教你用ChatGPT做「主管分身」，送件前先自己抓漏洞
+- ChatGPT排程任務怎麼設定？加這段prompt，讓AI只在真的有變化時通知你
+- 叫AI教你新東西只會拿到一堆知識？複製這段提示詞，任何主題都變成能上手的實戰課
 - ChatGPT語音陪你面試、談加薪！超真人對話降低緊張感，完整提示詞一次收藏
 - 每次叫AI做事都要交代「不要猜」？這5條守則貼給它，開工前再也不用囉哩八唆
 - AI說成交率30%「非常優秀」，報告完被主管秒打臉！3段提示詞抓出數據解讀盲點
@@ -55,6 +58,9 @@
 - Google產品經理原來是這樣用AI的！3步驟建立客戶人設
 
 ### 工具應用（Tools）
+- 做Skill要先付錢嗎？一張表看懂Claude、ChatGPT、Gemini誰免費用、誰要訂閱
+- 用LINE記東西卻越積越亂？教你這樣用AI，一周碎片秒變神級靈感寶庫
+- ChatGPT排程任務怎麼設定？加這段prompt，讓AI只在真的有變化時通知你
 - 每月月報格式重排到厭世？實測Gemini in Sheets，丟上月報表當範本，排序小計公式一次到位
 - 周報自己整理到厭世？實測Gemini Spark，可讀Gmail和日曆，每周五自動寄給團隊
 - 跟AI說「別回傳資料」沒有用！安裝Skill前，先把這行網址設定刪掉
@@ -104,6 +110,8 @@
 - 免費版Gemini變身求職神器！
 
 ### 職場效率（Workplace Productivity）
+- 提案總被主管退回重改？教你用ChatGPT做「主管分身」，送件前先自己抓漏洞
+- 你用AI產報告、主管用AI讀報告，這份報告還有存在必要嗎？動手前先問3件事
 - ChatGPT語音陪你面試、談加薪！超真人對話降低緊張感，完整提示詞一次收藏
 - 每月月報格式重排到厭世？實測Gemini in Sheets，丟上月報表當範本，排序小計公式一次到位
 - AI說成交率30%「非常優秀」，報告完被主管秒打臉！3段提示詞抓出數據解讀盲點
@@ -152,6 +160,7 @@
 - AI 商業翻譯好用嗎？文藻翻譯系主任指出 4 大盲點
 
 ### 學習與個人成長
+- 叫AI教你新東西只會拿到一堆知識？複製這段提示詞，任何主題都變成能上手的實戰課
 - 越用AI越怕自己變笨？它答得漂亮時反問「這一句」，偷學工程師的解題心法
 - 收藏一堆文章永遠讀不完？這套私藏AI策展工作流，每天推400字幫你讀完
 - AI怎麼用才不會把思考外包？先不要問「意見」，可以問3件事
@@ -176,6 +185,7 @@
 - 智慧手錶這3個數字最值得跟AI討論！打造客製化「AI健康教練」
 
 ### 生活應用
+- 用LINE記東西卻越積越亂？教你這樣用AI，一周碎片秒變神級靈感寶庫
 - 小孩哭鬧怎麼辦？這段AI提示詞幫他說出「委屈」還是「失望」，一起接住情緒包
 - 家人突住院，保單卻看不懂能賠多少？我用Gemini Notebook建一本隨時能問的理賠筆記
 - 用Claude做出孩子成長儀表板！一張圖書借閱紀錄，幫我揪出2歲後斷掉的缺口
@@ -209,6 +219,12 @@
 
 | 標題 | 發布時間 | 連結 |
 |------|----------|------|
+| 提案總被主管退回重改？教你用ChatGPT做「主管分身」，送件前先自己抓漏洞 | 22小時前 | [閱讀](https://www.bnext.com.tw/article/91978/chatgpt-boss-review) |
+| 做Skill要先付錢嗎？一張表看懂Claude、ChatGPT、Gemini誰免費用、誰要訂閱 | 1天前 | [閱讀](https://www.bnext.com.tw/article/91959/ai-skills-free-platform-comparison) |
+| 用LINE記東西卻越積越亂？教你這樣用AI，一周碎片秒變神級靈感寶庫 | 4天前 | [閱讀](https://www.bnext.com.tw/article/91943/line-chat-export-ai-organize) |
+| ChatGPT排程任務怎麼設定？加這段prompt，讓AI只在真的有變化時通知你 | 5天前 | [閱讀](https://www.bnext.com.tw/article/91928/chatgpt-scheduled-task-prompt) |
+| 你用AI產報告、主管用AI讀報告，這份報告還有存在必要嗎？動手前先問3件事 | 6天前 | [閱讀](https://www.bnext.com.tw/article/91910/ai-productivity-trap-3-questions) |
+| 叫AI教你新東西只會拿到一堆知識？複製這段提示詞，任何主題都變成能上手的實戰課 | 1星期前 | [閱讀](https://www.bnext.com.tw/article/91898/ai-self-learning-course-prompt) |
 | ChatGPT語音陪你面試、談加薪！超真人對話降低緊張感，完整提示詞一次收藏 | 17小時前 | [閱讀](https://www.bnext.com.tw/article/91888/chatgpt-voice-conversation-rehearsal) |
 | 每次叫AI做事都要交代「不要猜」？這5條守則貼給它，開工前再也不用囉哩八唆 | 3天前 | [閱讀](https://www.bnext.com.tw/article/91861/ai-collaboration-rules-prompt) |
 | 每月月報格式重排到厭世？實測Gemini in Sheets，丟上月報表當範本，排序小計公式一次到位 | 5天前 | [閱讀](https://www.bnext.com.tw/article/91828/gemini-sheets-monthly-report-format) |
