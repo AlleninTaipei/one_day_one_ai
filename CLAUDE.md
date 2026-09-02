@@ -53,6 +53,16 @@ URL 中的 article ID（如 `/article/91069/`）為唯一識別碼。
 3. 主題分類 `<section>`：新文章加入對應 `.cat-panel` 內的 `<ul>`（`<li>` 必須有 `<a href="..." target="_blank">` 連結），並同步更新對應 `.cat-tab` 上的 `<span class="count">` 篇數
 4. 第一頁至第三頁文章表格 `<section>`：在對應頁次表格頂端插入新文章列，加上 `class="is-new"`
 
+### 第五步：Commit 與 Push (Auto Mode)
+
+內容更新完成後, 若使用者是以 "Auto Mode" 下達 "請更新" 指令(例如同時對 bnext-ai-news 與 one_day_one_ai 兩個專案執行), 則不需再次詢問確認, 直接執行:
+
+1. `git add onedayoneai.md onedayoneai.html`
+2. `git commit -m "更新文章: <新增篇數> 篇 (<今日日期>)"`
+3. `git push origin main`
+
+若非 Auto Mode(例如使用者僅在本專案單獨對話中說 "請更新"), 則依一般流程, 在 commit/push 前先向使用者確認.
+
 ---
 
 ## HTML 設計規範
