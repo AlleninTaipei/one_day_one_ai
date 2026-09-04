@@ -1,8 +1,8 @@
 # 一天一AI — 文章摘要總覽
 
 > 來源：[數位時代「一天一AI」專欄](https://www.bnext.com.tw/tags/%E4%B8%80%E5%A4%A9%E4%B8%80AI)  
-> 整理日期：2026-09-02  
-> 共計 3 頁、144 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
+> 整理日期：2026-09-04  
+> 共計 3 頁、146 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
 
 ---
 
@@ -10,16 +10,17 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 144 篇 |
-| 本次新增 | 3 篇 |
+| 文章總數 | 146 篇 |
+| 本次新增 | 2 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-09-02 |
+| 更新日期 | 2026-09-04 |
 
 ---
 
 ## 主題分類
 
 ### 提示詞技巧（Prompt Engineering）
+- 叫AI「再精簡一點」沒有用！學豐田A3報告法這樣問，一頁讓主管秒懂重點
 - 別只問AI「我是怎樣的人」！這組提示詞，讓工作紀錄抓出你的行為模式
 - 主管只會說「不夠好」怎麼辦？2個AI提示詞，把模糊指令變選擇題
 - 提案總被主管退回重改？教你用ChatGPT做「主管分身」，送件前先自己抓漏洞
@@ -60,6 +61,7 @@
 - Google產品經理原來是這樣用AI的！3步驟建立客戶人設
 
 ### 工具應用（Tools）
+- Gemini Notebook電子書怎麼用？台灣4步驟匯入教學，精選筆記本免費開放
 - 做完AI任務還要手動搬運？教你怎麼連上Gmail、Google Drive，一秒寄出去、存到雲端
 - 做Skill要先付錢嗎？一張表看懂Claude、ChatGPT、Gemini誰免費用、誰要訂閱
 - 用LINE記東西卻越積越亂？教你這樣用AI，一周碎片秒變神級靈感寶庫
@@ -113,6 +115,7 @@
 - 免費版Gemini變身求職神器！
 
 ### 職場效率（Workplace Productivity）
+- 叫AI「再精簡一點」沒有用！學豐田A3報告法這樣問，一頁讓主管秒懂重點
 - 別只問AI「我是怎樣的人」！這組提示詞，讓工作紀錄抓出你的行為模式
 - 做完AI任務還要手動搬運？教你怎麼連上Gmail、Google Drive，一秒寄出去、存到雲端
 - 主管只會說「不夠好」怎麼辦？2個AI提示詞，把模糊指令變選擇題
@@ -228,6 +231,8 @@
 
 | 標題 | 發布時間 | 連結 |
 |------|----------|------|
+| 叫AI「再精簡一點」沒有用！學豐田A3報告法這樣問，一頁讓主管秒懂重點 | 33分前 | [閱讀](https://www.bnext.com.tw/article/92127/ai-toyota-a3-report-prompt) |
+| Gemini Notebook電子書怎麼用？台灣4步驟匯入教學，精選筆記本免費開放 | 1天前 | [閱讀](https://www.bnext.com.tw/article/92090/gemini-notebook-expert-intelligence) |
 | 別只問AI「我是怎樣的人」！這組提示詞，讓工作紀錄抓出你的行為模式 | 20小時前 | [閱讀](https://www.bnext.com.tw/article/92080/claude-code-self-analysis-work-records) |
 | 做完AI任務還要手動搬運？教你怎麼連上Gmail、Google Drive，一秒寄出去、存到雲端 | 1天前 | [閱讀](https://www.bnext.com.tw/article/92055/claude-chatgpt-connector-gmail-drive-setup) |
 | 主管只會說「不夠好」怎麼辦？2個AI提示詞，把模糊指令變選擇題 | 4天前 | [閱讀](https://www.bnext.com.tw/article/92031/ai-prompts-deal-with-bad-boss) |
