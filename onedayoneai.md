@@ -1,8 +1,8 @@
 # 一天一AI — 文章摘要總覽
 
 > 來源：[數位時代「一天一AI」專欄](https://www.bnext.com.tw/tags/%E4%B8%80%E5%A4%A9%E4%B8%80AI)  
-> 整理日期：2026-09-07  
-> 共計 3 頁、147 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
+> 整理日期：2026-09-10  
+> 共計 3 頁、149 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
 
 ---
 
@@ -10,16 +10,17 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 147 篇 |
-| 本次新增 | 1 篇 |
+| 文章總數 | 149 篇 |
+| 本次新增 | 2 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-09-07 |
+| 更新日期 | 2026-09-10 |
 
 ---
 
 ## 主題分類
 
 ### 提示詞技巧（Prompt Engineering）
+- 原廠的PPT想套進自家模板？4段指令抽出精華內容，產出可編輯的簡報
 - ChatGPT「Grill Me」教學！每天簡單答3題，1個月養出最懂你的AI
 - 叫AI「再精簡一點」沒有用！學豐田A3報告法這樣問，一頁讓主管秒懂重點
 - 別只問AI「我是怎樣的人」！這組提示詞，讓工作紀錄抓出你的行為模式
@@ -62,6 +63,8 @@
 - Google產品經理原來是這樣用AI的！3步驟建立客戶人設
 
 ### 工具應用（Tools）
+- 會議錄音怎麼變逐字稿？丟給ChatGPT Work，連Whisper都自己裝好了
+- 原廠的PPT想套進自家模板？4段指令抽出精華內容，產出可編輯的簡報
 - Gemini Notebook電子書怎麼用？台灣4步驟匯入教學，精選筆記本免費開放
 - 做完AI任務還要手動搬運？教你怎麼連上Gmail、Google Drive，一秒寄出去、存到雲端
 - 做Skill要先付錢嗎？一張表看懂Claude、ChatGPT、Gemini誰免費用、誰要訂閱
@@ -116,6 +119,7 @@
 - 免費版Gemini變身求職神器！
 
 ### 職場效率（Workplace Productivity）
+- 會議錄音怎麼變逐字稿？丟給ChatGPT Work，連Whisper都自己裝好了
 - 叫AI「再精簡一點」沒有用！學豐田A3報告法這樣問，一頁讓主管秒懂重點
 - 別只問AI「我是怎樣的人」！這組提示詞，讓工作紀錄抓出你的行為模式
 - 做完AI任務還要手動搬運？教你怎麼連上Gmail、Google Drive，一秒寄出去、存到雲端
@@ -232,6 +236,8 @@
 
 | 標題 | 發布時間 | 連結 |
 |------|----------|------|
+| 會議錄音怎麼變逐字稿？丟給ChatGPT Work，連Whisper都自己裝好了 | 23小時前 | [閱讀](https://www.bnext.com.tw/article/92174/voice-to-text) |
+| 原廠的PPT想套進自家模板？4段指令抽出精華內容，產出可編輯的簡報 | 1天前 | [閱讀](https://www.bnext.com.tw/article/92164/oem-ppt-rebuild) |
 | ChatGPT「Grill Me」教學！每天簡單答3題，1個月養出最懂你的AI | 5小時前 | [閱讀](https://www.bnext.com.tw/article/92143/ai-employee-onboarding) |
 | 叫AI「再精簡一點」沒有用！學豐田A3報告法這樣問，一頁讓主管秒懂重點 | 33分前 | [閱讀](https://www.bnext.com.tw/article/92127/ai-toyota-a3-report-prompt) |
 | Gemini Notebook電子書怎麼用？台灣4步驟匯入教學，精選筆記本免費開放 | 1天前 | [閱讀](https://www.bnext.com.tw/article/92090/gemini-notebook-expert-intelligence) |
