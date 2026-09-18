@@ -1,8 +1,8 @@
 # 一天一AI — 文章摘要總覽
 
 > 來源：[數位時代「一天一AI」專欄](https://www.bnext.com.tw/tags/%E4%B8%80%E5%A4%A9%E4%B8%80AI)  
-> 整理日期：2026-09-14  
-> 共計 3 頁、151 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
+> 整理日期：2026-09-18  
+> 共計 3 頁、154 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
 
 ---
 
@@ -10,16 +10,17 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 151 篇 |
-| 本次新增 | 2 篇 |
+| 文章總數 | 154 篇 |
+| 本次新增 | 3 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-09-14 |
+| 更新日期 | 2026-09-18 |
 
 ---
 
 ## 主題分類
 
 ### 提示詞技巧（Prompt Engineering）
+- [ChatGPT推出Data Agent、金融業專屬版！一段提示詞教你拆解工作，做出專屬AI幫手](https://www.bnext.com.tw/article/92222/openai-data-agent-work-decomposition)
 - AI做10分鐘，你卻要改2小時？5招把「驗收標準」訂清楚，真正放手給AI
 - 問題老是解決不了？用AI學豐田「5個為什麼」，2組提示詞一路挖出根本原因
 - 原廠的PPT想套進自家模板？4段指令抽出精華內容，產出可編輯的簡報
@@ -65,6 +66,8 @@
 - Google產品經理原來是這樣用AI的！3步驟建立客戶人設
 
 ### 工具應用（Tools）
+- [一天一AI PRO上線！6組專家工作流，讓ChatGPT、Claude不再每次從頭教](https://www.bnext.com.tw/article/92259/ai-survey-pro)
+- [AI又唱反調？每月10分鐘做記憶健檢，4招讓ChatGPT、Claude認得現在的你](https://www.bnext.com.tw/article/92241/chatgpt-claude-memory-audit)
 - 會議錄音怎麼變逐字稿？丟給ChatGPT Work，連Whisper都自己裝好了
 - 原廠的PPT想套進自家模板？4段指令抽出精華內容，產出可編輯的簡報
 - Gemini Notebook電子書怎麼用？台灣4步驟匯入教學，精選筆記本免費開放
@@ -121,6 +124,8 @@
 - 免費版Gemini變身求職神器！
 
 ### 職場效率（Workplace Productivity）
+- [一天一AI PRO上線！6組專家工作流，讓ChatGPT、Claude不再每次從頭教](https://www.bnext.com.tw/article/92259/ai-survey-pro)
+- [ChatGPT推出Data Agent、金融業專屬版！一段提示詞教你拆解工作，做出專屬AI幫手](https://www.bnext.com.tw/article/92222/openai-data-agent-work-decomposition)
 - AI做10分鐘，你卻要改2小時？5招把「驗收標準」訂清楚，真正放手給AI
 - 問題老是解決不了？用AI學豐田「5個為什麼」，2組提示詞一路挖出根本原因
 - 會議錄音怎麼變逐字稿？丟給ChatGPT Work，連Whisper都自己裝好了
@@ -240,6 +245,9 @@
 
 | 標題 | 發布時間 | 連結 |
 |------|----------|------|
+| 一天一AI PRO上線！6組專家工作流，讓ChatGPT、Claude不再每次從頭教 | 2天前 | [閱讀](https://www.bnext.com.tw/article/92259/ai-survey-pro) |
+| AI又唱反調？每月10分鐘做記憶健檢，4招讓ChatGPT、Claude認得現在的你 | 2天前 | [閱讀](https://www.bnext.com.tw/article/92241/chatgpt-claude-memory-audit) |
+| ChatGPT推出Data Agent、金融業專屬版！一段提示詞教你拆解工作，做出專屬AI幫手 | 3天前 | [閱讀](https://www.bnext.com.tw/article/92222/openai-data-agent-work-decomposition) |
 | AI做10分鐘，你卻要改2小時？5招把「驗收標準」訂清楚，真正放手給AI | 2天前 | [閱讀](https://www.bnext.com.tw/article/92205/eval-driven-work) |
 | 問題老是解決不了？用AI學豐田「5個為什麼」，2組提示詞一路挖出根本原因 | 3天前 | [閱讀](https://www.bnext.com.tw/article/92195/ai-5-whys-root-cause-analysis-prompt) |
 | 會議錄音怎麼變逐字稿？丟給ChatGPT Work，連Whisper都自己裝好了 | 23小時前 | [閱讀](https://www.bnext.com.tw/article/92174/voice-to-text) |
