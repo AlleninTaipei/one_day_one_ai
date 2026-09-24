@@ -1,8 +1,8 @@
 # 一天一AI — 文章摘要總覽
 
 > 來源：[數位時代「一天一AI」專欄](https://www.bnext.com.tw/tags/%E4%B8%80%E5%A4%A9%E4%B8%80AI)  
-> 整理日期：2026-09-18  
-> 共計 154 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
+> 整理日期：2026-09-24  
+> 共計 160 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
 
 ---
 
@@ -10,10 +10,10 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 154 篇 |
-| 本次新增 | 3 篇 |
+| 文章總數 | 160 篇 |
+| 本次新增 | 6 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-09-18 |
+| 更新日期 | 2026-09-24 |
 
 ---
 
@@ -21,7 +21,18 @@
 
 保留最近 2 次更新新增的文章, 發布時間為抓取當下的相對時間.
 
-### 2026-09-18 本次新增 (3 篇)
+### 2026-09-24 本次新增 (6 篇)
+
+| 標題 | 發布時間 | 分類 | 連結 |
+|------|----------|------|------|
+| 為了省AI額度，我把Sol換成Luna，結果更累了！什麼工作適合「降模型」？ | 8分前 | 工具應用 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92370/chatgpt-ai-model-sol-luna) |
+| ChatGPT額度不夠怎麼辦？我改用輕量模型反而更累！5個判斷教你選對AI模型 | 19小時前 | 工具應用 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92359/chatgpt-ai-model-sol-luna-token-guide) |
+| AI老是犯同樣的錯？把你的修改變成「規則檔」，讓它下一次直接記住 | 1天前 | 提示詞技巧 / 工具應用 | [閱讀](https://www.bnext.com.tw/article/92331/ai-remember-preferences-rules) |
+| 提示詞別把步驟寫死！MIT研究揭限制太多反而變笨，「產業情報雷達」找出真正有用的情報 | 2天前 | 提示詞技巧 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92315/ai-prompt-industry-intelligence-radar) |
+| 把老子做成AI Skill！40句道德經＋5個心智模型，工作卡關可以免費問 | 5天前 | 學習與個人成長 / 工具應用 | [閱讀](https://www.bnext.com.tw/article/92316/laozi-ai-skill-tao-te-ching) |
+| 免費下載「會議紀錄整理師」！逐字稿丟給AI，自動抓決議跟待辦，支援ChatGPT與Claude | 6天前 | 職場效率 / 工具應用 | [閱讀](https://www.bnext.com.tw/article/92317/ai-meeting-notes-workflow) |
+
+### 2026-09-18 前次新增 (3 篇)
 
 | 標題 | 發布時間 | 分類 | 連結 |
 |------|----------|------|------|
@@ -29,18 +40,13 @@
 | AI又唱反調？每月10分鐘做記憶健檢，4招讓ChatGPT、Claude認得現在的你 | 2天前 | 工具應用 | [閱讀](https://www.bnext.com.tw/article/92241/chatgpt-claude-memory-audit) |
 | ChatGPT推出Data Agent、金融業專屬版！一段提示詞教你拆解工作，做出專屬AI幫手 | 3天前 | 提示詞技巧 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92222/openai-data-agent-work-decomposition) |
 
-### 2026-09-14 前次新增 (2 篇)
-
-| 標題 | 發布時間 | 分類 | 連結 |
-|------|----------|------|------|
-| AI做10分鐘，你卻要改2小時？5招把「驗收標準」訂清楚，真正放手給AI | 2天前 | 提示詞技巧 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92205/eval-driven-work) |
-| 問題老是解決不了？用AI學豐田「5個為什麼」，2組提示詞一路挖出根本原因 | 3天前 | 提示詞技巧 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92195/ai-5-whys-root-cause-analysis-prompt) |
-
 ---
 
 ## 主題分類
 
 ### 提示詞技巧（Prompt Engineering）
+- [AI老是犯同樣的錯？把你的修改變成「規則檔」，讓它下一次直接記住](https://www.bnext.com.tw/article/92331/ai-remember-preferences-rules)
+- [提示詞別把步驟寫死！MIT研究揭限制太多反而變笨，「產業情報雷達」找出真正有用的情報](https://www.bnext.com.tw/article/92315/ai-prompt-industry-intelligence-radar)
 - [ChatGPT推出Data Agent、金融業專屬版！一段提示詞教你拆解工作，做出專屬AI幫手](https://www.bnext.com.tw/article/92222/openai-data-agent-work-decomposition)
 - [AI做10分鐘，你卻要改2小時？5招把「驗收標準」訂清楚，真正放手給AI](https://www.bnext.com.tw/article/92205/eval-driven-work)
 - [問題老是解決不了？用AI學豐田「5個為什麼」，2組提示詞一路挖出根本原因](https://www.bnext.com.tw/article/92195/ai-5-whys-root-cause-analysis-prompt)
@@ -87,6 +93,11 @@
 - [這樣做，不必再幫AI擦屁股！一句「萬用提示詞」，幫你維持高效工作流](https://www.bnext.com.tw/article/90299/ai-workflow-step-plan-optimization)
 
 ### 工具應用（Tools）
+- [為了省AI額度，我把Sol換成Luna，結果更累了！什麼工作適合「降模型」？](https://www.bnext.com.tw/article/92370/chatgpt-ai-model-sol-luna)
+- [ChatGPT額度不夠怎麼辦？我改用輕量模型反而更累！5個判斷教你選對AI模型](https://www.bnext.com.tw/article/92359/chatgpt-ai-model-sol-luna-token-guide)
+- [AI老是犯同樣的錯？把你的修改變成「規則檔」，讓它下一次直接記住](https://www.bnext.com.tw/article/92331/ai-remember-preferences-rules)
+- [把老子做成AI Skill！40句道德經＋5個心智模型，工作卡關可以免費問](https://www.bnext.com.tw/article/92316/laozi-ai-skill-tao-te-ching)
+- [免費下載「會議紀錄整理師」！逐字稿丟給AI，自動抓決議跟待辦，支援ChatGPT與Claude](https://www.bnext.com.tw/article/92317/ai-meeting-notes-workflow)
 - [一天一AI PRO上線！6組專家工作流，讓ChatGPT、Claude不再每次從頭教](https://www.bnext.com.tw/article/92259/ai-survey-pro)
 - [AI又唱反調？每月10分鐘做記憶健檢，4招讓ChatGPT、Claude認得現在的你](https://www.bnext.com.tw/article/92241/chatgpt-claude-memory-audit)
 - [會議錄音怎麼變逐字稿？丟給ChatGPT Work，連Whisper都自己裝好了](https://www.bnext.com.tw/article/92174/voice-to-text)
@@ -146,6 +157,10 @@
 - [用Gemini追WBC中華隊賽事超方便！3步驟把賽程排進你的Google行事曆](https://www.bnext.com.tw/article/90211/wbc-gemini-google-calendar-tutorial)
 
 ### 職場效率（Workplace Productivity）
+- [為了省AI額度，我把Sol換成Luna，結果更累了！什麼工作適合「降模型」？](https://www.bnext.com.tw/article/92370/chatgpt-ai-model-sol-luna)
+- [ChatGPT額度不夠怎麼辦？我改用輕量模型反而更累！5個判斷教你選對AI模型](https://www.bnext.com.tw/article/92359/chatgpt-ai-model-sol-luna-token-guide)
+- [提示詞別把步驟寫死！MIT研究揭限制太多反而變笨，「產業情報雷達」找出真正有用的情報](https://www.bnext.com.tw/article/92315/ai-prompt-industry-intelligence-radar)
+- [免費下載「會議紀錄整理師」！逐字稿丟給AI，自動抓決議跟待辦，支援ChatGPT與Claude](https://www.bnext.com.tw/article/92317/ai-meeting-notes-workflow)
 - [一天一AI PRO上線！6組專家工作流，讓ChatGPT、Claude不再每次從頭教](https://www.bnext.com.tw/article/92259/ai-survey-pro)
 - [ChatGPT推出Data Agent、金融業專屬版！一段提示詞教你拆解工作，做出專屬AI幫手](https://www.bnext.com.tw/article/92222/openai-data-agent-work-decomposition)
 - [AI做10分鐘，你卻要改2小時？5招把「驗收標準」訂清楚，真正放手給AI](https://www.bnext.com.tw/article/92205/eval-driven-work)
@@ -206,6 +221,7 @@
 - [AI 商業翻譯好用嗎？文藻翻譯系主任指出 4 大盲點，附「避雷」提示詞範例參考](https://www.bnext.com.tw/article/90047/ai-translation-professional-guide-from-professor)
 
 ### 學習與個人成長
+- [把老子做成AI Skill！40句道德經＋5個心智模型，工作卡關可以免費問](https://www.bnext.com.tw/article/92316/laozi-ai-skill-tao-te-ching)
 - [別只問AI「我是怎樣的人」！這組提示詞，讓工作紀錄抓出你的行為模式](https://www.bnext.com.tw/article/92080/claude-code-self-analysis-work-records)
 - [叫AI教你新東西只會拿到一堆知識？複製這段提示詞，任何主題都變成能上手的實戰課](https://www.bnext.com.tw/article/91898/ai-self-learning-course-prompt)
 - [越用AI越怕自己變笨？它答得漂亮時反問「這一句」，偷學工程師的解題心法](https://www.bnext.com.tw/article/91562/ai-follow-up-question-reasoning)
