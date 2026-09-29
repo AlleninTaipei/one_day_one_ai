@@ -1,8 +1,8 @@
 # 一天一AI — 文章摘要總覽
 
 > 來源：[數位時代「一天一AI」專欄](https://www.bnext.com.tw/tags/%E4%B8%80%E5%A4%A9%E4%B8%80AI)  
-> 整理日期：2026-09-24  
-> 共計 160 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
+> 整理日期：2026-09-29  
+> 共計 162 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
 
 ---
 
@@ -10,10 +10,10 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 160 篇 |
-| 本次新增 | 6 篇 |
+| 文章總數 | 162 篇 |
+| 本次新增 | 2 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-09-24 |
+| 更新日期 | 2026-09-29 |
 
 ---
 
@@ -21,7 +21,14 @@
 
 保留最近 2 次更新新增的文章, 發布時間為抓取當下的相對時間.
 
-### 2026-09-24 本次新增 (6 篇)
+### 2026-09-29 本次新增 (2 篇)
+
+| 標題 | 發布時間 | 分類 | 連結 |
+|------|----------|------|------|
+| 把文件全丟給AI就好？企業建立知識庫前，先想清楚這6件事 | 4小時前 | AI 隱私安全＆企業策略 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92404/enterprise-ai-knowledge-base-guide) |
+| AI幫你做決策，真的能信嗎？同一題跑3次答案都不同，我學會「先別讓它排序」 | 4天前 | 提示詞技巧 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92371/ai-decision-making-ranking-reliability) |
+
+### 2026-09-24 前次新增 (6 篇)
 
 | 標題 | 發布時間 | 分類 | 連結 |
 |------|----------|------|------|
@@ -32,19 +39,12 @@
 | 把老子做成AI Skill！40句道德經＋5個心智模型，工作卡關可以免費問 | 5天前 | 學習與個人成長 / 工具應用 | [閱讀](https://www.bnext.com.tw/article/92316/laozi-ai-skill-tao-te-ching) |
 | 免費下載「會議紀錄整理師」！逐字稿丟給AI，自動抓決議跟待辦，支援ChatGPT與Claude | 6天前 | 職場效率 / 工具應用 | [閱讀](https://www.bnext.com.tw/article/92317/ai-meeting-notes-workflow) |
 
-### 2026-09-18 前次新增 (3 篇)
-
-| 標題 | 發布時間 | 分類 | 連結 |
-|------|----------|------|------|
-| 一天一AI PRO上線！6組專家工作流，讓ChatGPT、Claude不再每次從頭教 | 2天前 | 工具應用 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92259/ai-survey-pro) |
-| AI又唱反調？每月10分鐘做記憶健檢，4招讓ChatGPT、Claude認得現在的你 | 2天前 | 工具應用 | [閱讀](https://www.bnext.com.tw/article/92241/chatgpt-claude-memory-audit) |
-| ChatGPT推出Data Agent、金融業專屬版！一段提示詞教你拆解工作，做出專屬AI幫手 | 3天前 | 提示詞技巧 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92222/openai-data-agent-work-decomposition) |
-
 ---
 
 ## 主題分類
 
 ### 提示詞技巧（Prompt Engineering）
+- [AI幫你做決策，真的能信嗎？同一題跑3次答案都不同，我學會「先別讓它排序」](https://www.bnext.com.tw/article/92371/ai-decision-making-ranking-reliability)
 - [AI老是犯同樣的錯？把你的修改變成「規則檔」，讓它下一次直接記住](https://www.bnext.com.tw/article/92331/ai-remember-preferences-rules)
 - [提示詞別把步驟寫死！MIT研究揭限制太多反而變笨，「產業情報雷達」找出真正有用的情報](https://www.bnext.com.tw/article/92315/ai-prompt-industry-intelligence-radar)
 - [ChatGPT推出Data Agent、金融業專屬版！一段提示詞教你拆解工作，做出專屬AI幫手](https://www.bnext.com.tw/article/92222/openai-data-agent-work-decomposition)
@@ -157,6 +157,8 @@
 - [用Gemini追WBC中華隊賽事超方便！3步驟把賽程排進你的Google行事曆](https://www.bnext.com.tw/article/90211/wbc-gemini-google-calendar-tutorial)
 
 ### 職場效率（Workplace Productivity）
+- [把文件全丟給AI就好？企業建立知識庫前，先想清楚這6件事](https://www.bnext.com.tw/article/92404/enterprise-ai-knowledge-base-guide)
+- [AI幫你做決策，真的能信嗎？同一題跑3次答案都不同，我學會「先別讓它排序」](https://www.bnext.com.tw/article/92371/ai-decision-making-ranking-reliability)
 - [為了省AI額度，我把Sol換成Luna，結果更累了！什麼工作適合「降模型」？](https://www.bnext.com.tw/article/92370/chatgpt-ai-model-sol-luna)
 - [ChatGPT額度不夠怎麼辦？我改用輕量模型反而更累！5個判斷教你選對AI模型](https://www.bnext.com.tw/article/92359/chatgpt-ai-model-sol-luna-token-guide)
 - [提示詞別把步驟寫死！MIT研究揭限制太多反而變笨，「產業情報雷達」找出真正有用的情報](https://www.bnext.com.tw/article/92315/ai-prompt-industry-intelligence-radar)
@@ -265,6 +267,7 @@
 - [用Gemini追WBC中華隊賽事超方便！3步驟把賽程排進你的Google行事曆](https://www.bnext.com.tw/article/90211/wbc-gemini-google-calendar-tutorial)
 
 ### AI 隱私安全 ＆ 企業策略
+- [把文件全丟給AI就好？企業建立知識庫前，先想清楚這6件事](https://www.bnext.com.tw/article/92404/enterprise-ai-knowledge-base-guide)
 - [跟AI說「別回傳資料」沒有用！安裝Skill前，先把這行網址設定刪掉](https://www.bnext.com.tw/article/91721/github-skill-install-security-check)
 - [你傳給同事的Claude對話，Google搜得到！用一行語法自己查，公司機密有沒有外流](https://www.bnext.com.tw/article/91663/claude-share-link-leak-self-check)
 - [在公司推AI，同事一周就打回原形？他用「3層知識庫」把流程變成按鈕](https://www.bnext.com.tw/article/91473/ai-adoption-knowledge-base-skill-library)
