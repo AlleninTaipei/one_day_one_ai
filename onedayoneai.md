@@ -1,8 +1,8 @@
 # 一天一AI — 文章摘要總覽
 
 > 來源：[數位時代「一天一AI」專欄](https://www.bnext.com.tw/tags/%E4%B8%80%E5%A4%A9%E4%B8%80AI)  
-> 整理日期：2026-09-29  
-> 共計 162 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
+> 整理日期：2026-10-02  
+> 共計 164 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
 
 ---
 
@@ -10,10 +10,10 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 162 篇 |
+| 文章總數 | 164 篇 |
 | 本次新增 | 2 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-09-29 |
+| 更新日期 | 2026-10-02 |
 
 ---
 
@@ -21,23 +21,19 @@
 
 保留最近 2 次更新新增的文章, 發布時間為抓取當下的相對時間.
 
-### 2026-09-29 本次新增 (2 篇)
+### 2026-10-02 本次新增 (2 篇)
+
+| 標題 | 發布時間 | 分類 | 連結 |
+|------|----------|------|------|
+| 自訂GPT要退場了！AI大廠正在把「小助理」，變成可重複使用的技能 | 22小時前 | 工具應用 | [閱讀](https://www.bnext.com.tw/article/92451/custom-gpt-migrate-plugin-skill) |
+| 怎麼用Claude做影片？6步驟技巧拆解，從參考片、分鏡一路做到成片 | 2天前 | 工具應用 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92428/20260929-opus-promo-video) |
+
+### 2026-09-29 前次新增 (2 篇)
 
 | 標題 | 發布時間 | 分類 | 連結 |
 |------|----------|------|------|
 | 把文件全丟給AI就好？企業建立知識庫前，先想清楚這6件事 | 4小時前 | AI 隱私安全＆企業策略 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92404/enterprise-ai-knowledge-base-guide) |
 | AI幫你做決策，真的能信嗎？同一題跑3次答案都不同，我學會「先別讓它排序」 | 4天前 | 提示詞技巧 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92371/ai-decision-making-ranking-reliability) |
-
-### 2026-09-24 前次新增 (6 篇)
-
-| 標題 | 發布時間 | 分類 | 連結 |
-|------|----------|------|------|
-| 為了省AI額度，我把Sol換成Luna，結果更累了！什麼工作適合「降模型」？ | 8分前 | 工具應用 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92370/chatgpt-ai-model-sol-luna) |
-| ChatGPT額度不夠怎麼辦？我改用輕量模型反而更累！5個判斷教你選對AI模型 | 19小時前 | 工具應用 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92359/chatgpt-ai-model-sol-luna-token-guide) |
-| AI老是犯同樣的錯？把你的修改變成「規則檔」，讓它下一次直接記住 | 1天前 | 提示詞技巧 / 工具應用 | [閱讀](https://www.bnext.com.tw/article/92331/ai-remember-preferences-rules) |
-| 提示詞別把步驟寫死！MIT研究揭限制太多反而變笨，「產業情報雷達」找出真正有用的情報 | 2天前 | 提示詞技巧 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92315/ai-prompt-industry-intelligence-radar) |
-| 把老子做成AI Skill！40句道德經＋5個心智模型，工作卡關可以免費問 | 5天前 | 學習與個人成長 / 工具應用 | [閱讀](https://www.bnext.com.tw/article/92316/laozi-ai-skill-tao-te-ching) |
-| 免費下載「會議紀錄整理師」！逐字稿丟給AI，自動抓決議跟待辦，支援ChatGPT與Claude | 6天前 | 職場效率 / 工具應用 | [閱讀](https://www.bnext.com.tw/article/92317/ai-meeting-notes-workflow) |
 
 ---
 
@@ -93,6 +89,8 @@
 - [這樣做，不必再幫AI擦屁股！一句「萬用提示詞」，幫你維持高效工作流](https://www.bnext.com.tw/article/90299/ai-workflow-step-plan-optimization)
 
 ### 工具應用（Tools）
+- [自訂GPT要退場了！AI大廠正在把「小助理」，變成可重複使用的技能](https://www.bnext.com.tw/article/92451/custom-gpt-migrate-plugin-skill)
+- [怎麼用Claude做影片？6步驟技巧拆解，從參考片、分鏡一路做到成片](https://www.bnext.com.tw/article/92428/20260929-opus-promo-video)
 - [為了省AI額度，我把Sol換成Luna，結果更累了！什麼工作適合「降模型」？](https://www.bnext.com.tw/article/92370/chatgpt-ai-model-sol-luna)
 - [ChatGPT額度不夠怎麼辦？我改用輕量模型反而更累！5個判斷教你選對AI模型](https://www.bnext.com.tw/article/92359/chatgpt-ai-model-sol-luna-token-guide)
 - [AI老是犯同樣的錯？把你的修改變成「規則檔」，讓它下一次直接記住](https://www.bnext.com.tw/article/92331/ai-remember-preferences-rules)
@@ -157,6 +155,7 @@
 - [用Gemini追WBC中華隊賽事超方便！3步驟把賽程排進你的Google行事曆](https://www.bnext.com.tw/article/90211/wbc-gemini-google-calendar-tutorial)
 
 ### 職場效率（Workplace Productivity）
+- [怎麼用Claude做影片？6步驟技巧拆解，從參考片、分鏡一路做到成片](https://www.bnext.com.tw/article/92428/20260929-opus-promo-video)
 - [把文件全丟給AI就好？企業建立知識庫前，先想清楚這6件事](https://www.bnext.com.tw/article/92404/enterprise-ai-knowledge-base-guide)
 - [AI幫你做決策，真的能信嗎？同一題跑3次答案都不同，我學會「先別讓它排序」](https://www.bnext.com.tw/article/92371/ai-decision-making-ranking-reliability)
 - [為了省AI額度，我把Sol換成Luna，結果更累了！什麼工作適合「降模型」？](https://www.bnext.com.tw/article/92370/chatgpt-ai-model-sol-luna)
