@@ -1,8 +1,8 @@
 # 一天一AI — 文章摘要總覽
 
 > 來源：[數位時代「一天一AI」專欄](https://www.bnext.com.tw/tags/%E4%B8%80%E5%A4%A9%E4%B8%80AI)  
-> 整理日期：2026-10-02  
-> 共計 164 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
+> 整理日期：2026-10-12  
+> 共計 170 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
 
 ---
 
@@ -10,10 +10,10 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 164 篇 |
-| 本次新增 | 2 篇 |
+| 文章總數 | 170 篇 |
+| 本次新增 | 6 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-10-02 |
+| 更新日期 | 2026-10-12 |
 
 ---
 
@@ -21,19 +21,23 @@
 
 保留最近 2 次更新新增的文章, 發布時間為抓取當下的相對時間.
 
-### 2026-10-02 本次新增 (2 篇)
+### 2026-10-12 本次新增 (6 篇)
+
+| 標題 | 發布時間 | 分類 | 連結 |
+|------|----------|------|------|
+| 巨思《2026台灣工作者AI應用大調查》：74%天天用AI，為何只有16%能建立固定工作流？ | 2天前 | 職場效率 | [閱讀](https://www.bnext.com.tw/article/92555/taiwan-ai-workflow-survey-2026) |
+| AI味怎麼去除？「去AI味改稿師」skill幫你潤稿，還能學你的寫作風格 | 2天前 | 翻譯與語言 / 工具應用 | [閱讀](https://www.bnext.com.tw/article/92556/remove-ai-writing-style-chatgpt-claude-skill) |
+| ChatGPT、Claude可以一次叫兩個工作流！多個Skill怎麼一起用？3步驟教學 | 4天前 | 工具應用 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92530/use-multiple-ai-skills-workflows) |
+| ChatGPT聊到一半別再重開！「分支」功能怎麼用？多版本、岔題討論不再搞混 | 5天前 | 工具應用 | [閱讀](https://www.bnext.com.tw/article/92508/20260930-ai-chat-branch) |
+| AI怎麼做Excel動態儀表板？實測Claude for Excel，資料新增、修改都能自動更新 | 5天前 | 工具應用 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92507/ai-excel-dashboard) |
+| 一個人也能帶一支AI團隊！實測Grok Bot多bot協作，3種工作最適合這樣做 | 1星期前 | 工具應用 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92470/grok-bot-tutorial) |
+
+### 2026-10-02 前次新增 (2 篇)
 
 | 標題 | 發布時間 | 分類 | 連結 |
 |------|----------|------|------|
 | 自訂GPT要退場了！AI大廠正在把「小助理」，變成可重複使用的技能 | 22小時前 | 工具應用 | [閱讀](https://www.bnext.com.tw/article/92451/custom-gpt-migrate-plugin-skill) |
 | 怎麼用Claude做影片？6步驟技巧拆解，從參考片、分鏡一路做到成片 | 2天前 | 工具應用 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92428/20260929-opus-promo-video) |
-
-### 2026-09-29 前次新增 (2 篇)
-
-| 標題 | 發布時間 | 分類 | 連結 |
-|------|----------|------|------|
-| 把文件全丟給AI就好？企業建立知識庫前，先想清楚這6件事 | 4小時前 | AI 隱私安全＆企業策略 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92404/enterprise-ai-knowledge-base-guide) |
-| AI幫你做決策，真的能信嗎？同一題跑3次答案都不同，我學會「先別讓它排序」 | 4天前 | 提示詞技巧 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92371/ai-decision-making-ranking-reliability) |
 
 ---
 
@@ -89,6 +93,11 @@
 - [這樣做，不必再幫AI擦屁股！一句「萬用提示詞」，幫你維持高效工作流](https://www.bnext.com.tw/article/90299/ai-workflow-step-plan-optimization)
 
 ### 工具應用（Tools）
+- [AI味怎麼去除？「去AI味改稿師」skill幫你潤稿，還能學你的寫作風格](https://www.bnext.com.tw/article/92556/remove-ai-writing-style-chatgpt-claude-skill)
+- [ChatGPT、Claude可以一次叫兩個工作流！多個Skill怎麼一起用？3步驟教學](https://www.bnext.com.tw/article/92530/use-multiple-ai-skills-workflows)
+- [ChatGPT聊到一半別再重開！「分支」功能怎麼用？多版本、岔題討論不再搞混](https://www.bnext.com.tw/article/92508/20260930-ai-chat-branch)
+- [AI怎麼做Excel動態儀表板？實測Claude for Excel，資料新增、修改都能自動更新](https://www.bnext.com.tw/article/92507/ai-excel-dashboard)
+- [一個人也能帶一支AI團隊！實測Grok Bot多bot協作，3種工作最適合這樣做](https://www.bnext.com.tw/article/92470/grok-bot-tutorial)
 - [自訂GPT要退場了！AI大廠正在把「小助理」，變成可重複使用的技能](https://www.bnext.com.tw/article/92451/custom-gpt-migrate-plugin-skill)
 - [怎麼用Claude做影片？6步驟技巧拆解，從參考片、分鏡一路做到成片](https://www.bnext.com.tw/article/92428/20260929-opus-promo-video)
 - [為了省AI額度，我把Sol換成Luna，結果更累了！什麼工作適合「降模型」？](https://www.bnext.com.tw/article/92370/chatgpt-ai-model-sol-luna)
@@ -155,6 +164,10 @@
 - [用Gemini追WBC中華隊賽事超方便！3步驟把賽程排進你的Google行事曆](https://www.bnext.com.tw/article/90211/wbc-gemini-google-calendar-tutorial)
 
 ### 職場效率（Workplace Productivity）
+- [巨思《2026台灣工作者AI應用大調查》：74%天天用AI，為何只有16%能建立固定工作流？](https://www.bnext.com.tw/article/92555/taiwan-ai-workflow-survey-2026)
+- [ChatGPT、Claude可以一次叫兩個工作流！多個Skill怎麼一起用？3步驟教學](https://www.bnext.com.tw/article/92530/use-multiple-ai-skills-workflows)
+- [AI怎麼做Excel動態儀表板？實測Claude for Excel，資料新增、修改都能自動更新](https://www.bnext.com.tw/article/92507/ai-excel-dashboard)
+- [一個人也能帶一支AI團隊！實測Grok Bot多bot協作，3種工作最適合這樣做](https://www.bnext.com.tw/article/92470/grok-bot-tutorial)
 - [怎麼用Claude做影片？6步驟技巧拆解，從參考片、分鏡一路做到成片](https://www.bnext.com.tw/article/92428/20260929-opus-promo-video)
 - [把文件全丟給AI就好？企業建立知識庫前，先想清楚這6件事](https://www.bnext.com.tw/article/92404/enterprise-ai-knowledge-base-guide)
 - [AI幫你做決策，真的能信嗎？同一題跑3次答案都不同，我學會「先別讓它排序」](https://www.bnext.com.tw/article/92371/ai-decision-making-ranking-reliability)
@@ -214,6 +227,7 @@
 - [5個研討會翻譯避坑指南！AI 中翻英怎麼翻才對？搭配NotebookLM更好用](https://www.bnext.com.tw/article/90453/seminar-ai-translation-pitfalls)
 
 ### 翻譯與語言（Translation & Language）
+- [AI味怎麼去除？「去AI味改稿師」skill幫你潤稿，還能學你的寫作風格](https://www.bnext.com.tw/article/92556/remove-ai-writing-style-chatgpt-claude-skill)
 - [文藻翻譯系主任推薦！5步驟讓AI當你的英語口說家教，附發音、面試、口譯實戰提示詞](https://www.bnext.com.tw/article/90644/ai-english-speaking-coach-tips)
 - [AI簡報中翻英，專業關鍵在這5點！外語翻譯系主任教你母語人士會注意的眉角](https://www.bnext.com.tw/article/90241/ai-ppt-translation-expert-tips)
 - [5個研討會翻譯避坑指南！AI 中翻英怎麼翻才對？搭配NotebookLM更好用](https://www.bnext.com.tw/article/90453/seminar-ai-translation-pitfalls)
