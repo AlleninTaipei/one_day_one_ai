@@ -1,8 +1,8 @@
 # 一天一AI — 文章摘要總覽
 
 > 來源：[數位時代「一天一AI」專欄](https://www.bnext.com.tw/tags/%E4%B8%80%E5%A4%A9%E4%B8%80AI)  
-> 整理日期：2026-10-16  
-> 共計 175 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
+> 整理日期：2026-10-27  
+> 共計 180 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
 
 ---
 
@@ -10,10 +10,10 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 175 篇 |
+| 文章總數 | 180 篇 |
 | 本次新增 | 5 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-10-16 |
+| 更新日期 | 2026-10-27 |
 
 ---
 
@@ -21,7 +21,17 @@
 
 保留最近 2 次更新新增的文章, 發布時間為抓取當下的相對時間.
 
-### 2026-10-16 本次新增 (5 篇)
+### 2026-10-27 本次新增 (5 篇)
+
+| 標題 | 發布時間 | 分類 | 連結 |
+|------|----------|------|------|
+| PHP爆兩個9.2分漏洞，電腦需要更新嗎？一段提示詞，用AI檢查軟體版本 | 3天前 | AI 隱私安全＆企業策略 / 提示詞技巧 | [閱讀](https://www.bnext.com.tw/article/92773/20261022-vibe-security-patch) |
+| AI太了解你，也會限制思考？用ChatGPT臨時對話，減少既有記憶干擾 | 4天前 | 工具應用 / 學習與個人成長 | [閱讀](https://www.bnext.com.tw/article/92746/chatgpt-temporary-chat-guide) |
+| 年度計畫列太多，根本做不完？用這套AI提示詞，想清楚哪些事先不做 | 5天前 | 提示詞技巧 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92734/ai-annual-planning-strategy-prompts) |
+| 主管丟來「AI手榴彈」怎麼接？先別急著重寫，用這套提示詞釐清報告重點 | 1星期前 | 職場效率 / 提示詞技巧 | [閱讀](https://www.bnext.com.tw/article/92712/ai-grenade-report-editing) |
+| 怎麼用AI幫忙盯盤？實測Claude追行情、整理理財Podcast，做法一次學！ | 1星期前 | 工具應用 / 生活應用 | [閱讀](https://www.bnext.com.tw/article/92691/claude-cowork-stock-tracking) |
+
+### 2026-10-16 前次新增 (5 篇)
 
 | 標題 | 發布時間 | 分類 | 連結 |
 |------|----------|------|------|
@@ -31,22 +41,14 @@
 | Skill和MCP老是分不清？在ChatGPT打5個短指令，一步步搞懂概念、還能出題考你！ | 3天前 | 學習與個人成長 / 工具應用 | [閱讀](https://www.bnext.com.tw/article/92611/trial-20261008-image-shortcuts) |
 | PDF蓋黑框，ChatGPT竟然還讀得到？傳給AI前，個資要這樣遮才安全 | 4天前 | AI 隱私安全＆企業策略 | [閱讀](https://www.bnext.com.tw/article/92585/pdf-black-box-ai-privacy) |
 
-### 2026-10-12 前次新增 (6 篇)
-
-| 標題 | 發布時間 | 分類 | 連結 |
-|------|----------|------|------|
-| 巨思《2026台灣工作者AI應用大調查》：74%天天用AI，為何只有16%能建立固定工作流？ | 2天前 | 職場效率 | [閱讀](https://www.bnext.com.tw/article/92555/taiwan-ai-workflow-survey-2026) |
-| AI味怎麼去除？「去AI味改稿師」skill幫你潤稿，還能學你的寫作風格 | 2天前 | 翻譯與語言 / 工具應用 | [閱讀](https://www.bnext.com.tw/article/92556/remove-ai-writing-style-chatgpt-claude-skill) |
-| ChatGPT、Claude可以一次叫兩個工作流！多個Skill怎麼一起用？3步驟教學 | 4天前 | 工具應用 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92530/use-multiple-ai-skills-workflows) |
-| ChatGPT聊到一半別再重開！「分支」功能怎麼用？多版本、岔題討論不再搞混 | 5天前 | 工具應用 | [閱讀](https://www.bnext.com.tw/article/92508/20260930-ai-chat-branch) |
-| AI怎麼做Excel動態儀表板？實測Claude for Excel，資料新增、修改都能自動更新 | 5天前 | 工具應用 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92507/ai-excel-dashboard) |
-| 一個人也能帶一支AI團隊！實測Grok Bot多bot協作，3種工作最適合這樣做 | 1星期前 | 工具應用 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/92470/grok-bot-tutorial) |
-
 ---
 
 ## 主題分類
 
 ### 提示詞技巧（Prompt Engineering）
+- [PHP爆兩個9.2分漏洞，電腦需要更新嗎？一段提示詞，用AI檢查軟體版本](https://www.bnext.com.tw/article/92773/20261022-vibe-security-patch)
+- [年度計畫列太多，根本做不完？用這套AI提示詞，想清楚哪些事先不做](https://www.bnext.com.tw/article/92734/ai-annual-planning-strategy-prompts)
+- [主管丟來「AI手榴彈」怎麼接？先別急著重寫，用這套提示詞釐清報告重點](https://www.bnext.com.tw/article/92712/ai-grenade-report-editing)
 - [AI幫你做決策，真的能信嗎？同一題跑3次答案都不同，我學會「先別讓它排序」](https://www.bnext.com.tw/article/92371/ai-decision-making-ranking-reliability)
 - [AI老是犯同樣的錯？把你的修改變成「規則檔」，讓它下一次直接記住](https://www.bnext.com.tw/article/92331/ai-remember-preferences-rules)
 - [提示詞別把步驟寫死！MIT研究揭限制太多反而變笨，「產業情報雷達」找出真正有用的情報](https://www.bnext.com.tw/article/92315/ai-prompt-industry-intelligence-radar)
@@ -96,6 +98,8 @@
 - [這樣做，不必再幫AI擦屁股！一句「萬用提示詞」，幫你維持高效工作流](https://www.bnext.com.tw/article/90299/ai-workflow-step-plan-optimization)
 
 ### 工具應用（Tools）
+- [AI太了解你，也會限制思考？用ChatGPT臨時對話，減少既有記憶干擾](https://www.bnext.com.tw/article/92746/chatgpt-temporary-chat-guide)
+- [怎麼用AI幫忙盯盤？實測Claude追行情、整理理財Podcast，做法一次學！](https://www.bnext.com.tw/article/92691/claude-cowork-stock-tracking)
 - [長輩拿AI行程問「這樣能去嗎？」我用Grok bot做出旅行社級行前手冊](https://www.bnext.com.tw/article/92670/grok-ai-travel-itinerary-check)
 - [Claude、ChatGPT「雙刀流」教學！用Google Drive共用專案，不用重講進度](https://www.bnext.com.tw/article/92640/claude-chatgpt-google-drive-handoff)
 - [想派影片去開會報告？Claude Motion讓簡報動起來，還能配合你的旁白節奏](https://www.bnext.com.tw/article/92620/claude-motion-slides-to-video-voiceover)
@@ -171,6 +175,8 @@
 - [用Gemini追WBC中華隊賽事超方便！3步驟把賽程排進你的Google行事曆](https://www.bnext.com.tw/article/90211/wbc-gemini-google-calendar-tutorial)
 
 ### 職場效率（Workplace Productivity）
+- [年度計畫列太多，根本做不完？用這套AI提示詞，想清楚哪些事先不做](https://www.bnext.com.tw/article/92734/ai-annual-planning-strategy-prompts)
+- [主管丟來「AI手榴彈」怎麼接？先別急著重寫，用這套提示詞釐清報告重點](https://www.bnext.com.tw/article/92712/ai-grenade-report-editing)
 - [Claude、ChatGPT「雙刀流」教學！用Google Drive共用專案，不用重講進度](https://www.bnext.com.tw/article/92640/claude-chatgpt-google-drive-handoff)
 - [想派影片去開會報告？Claude Motion讓簡報動起來，還能配合你的旁白節奏](https://www.bnext.com.tw/article/92620/claude-motion-slides-to-video-voiceover)
 - [巨思《2026台灣工作者AI應用大調查》：74%天天用AI，為何只有16%能建立固定工作流？](https://www.bnext.com.tw/article/92555/taiwan-ai-workflow-survey-2026)
@@ -245,6 +251,7 @@
 - [AI 商業翻譯好用嗎？文藻翻譯系主任指出 4 大盲點，附「避雷」提示詞範例參考](https://www.bnext.com.tw/article/90047/ai-translation-professional-guide-from-professor)
 
 ### 學習與個人成長
+- [AI太了解你，也會限制思考？用ChatGPT臨時對話，減少既有記憶干擾](https://www.bnext.com.tw/article/92746/chatgpt-temporary-chat-guide)
 - [Skill和MCP老是分不清？在ChatGPT打5個短指令，一步步搞懂概念、還能出題考你！](https://www.bnext.com.tw/article/92611/trial-20261008-image-shortcuts)
 - [把老子做成AI Skill！40句道德經＋5個心智模型，工作卡關可以免費問](https://www.bnext.com.tw/article/92316/laozi-ai-skill-tao-te-ching)
 - [別只問AI「我是怎樣的人」！這組提示詞，讓工作紀錄抓出你的行為模式](https://www.bnext.com.tw/article/92080/claude-code-self-analysis-work-records)
@@ -273,6 +280,7 @@
 - [智慧手錶這3個數字最值得跟AI討論！醫師分享實用問法，打造客製化「AI健康教練」](https://www.bnext.com.tw/article/90607/ai-health-watch-data-guide)
 
 ### 生活應用
+- [怎麼用AI幫忙盯盤？實測Claude追行情、整理理財Podcast，做法一次學！](https://www.bnext.com.tw/article/92691/claude-cowork-stock-tracking)
 - [長輩拿AI行程問「這樣能去嗎？」我用Grok bot做出旅行社級行前手冊](https://www.bnext.com.tw/article/92670/grok-ai-travel-itinerary-check)
 - [安海瑟薇也收到AI求職信！如果不想被刷掉怎麼辦？4招寫出真實特色](https://www.bnext.com.tw/article/92006/ai-job-judgment-not-outsource)
 - [用LINE記東西卻越積越亂？教你這樣用AI，一周碎片秒變神級靈感寶庫](https://www.bnext.com.tw/article/91943/line-chat-export-ai-organize)
@@ -291,6 +299,7 @@
 - [用Gemini追WBC中華隊賽事超方便！3步驟把賽程排進你的Google行事曆](https://www.bnext.com.tw/article/90211/wbc-gemini-google-calendar-tutorial)
 
 ### AI 隱私安全 ＆ 企業策略
+- [PHP爆兩個9.2分漏洞，電腦需要更新嗎？一段提示詞，用AI檢查軟體版本](https://www.bnext.com.tw/article/92773/20261022-vibe-security-patch)
 - [PDF蓋黑框，ChatGPT竟然還讀得到？傳給AI前，個資要這樣遮才安全](https://www.bnext.com.tw/article/92585/pdf-black-box-ai-privacy)
 - [把文件全丟給AI就好？企業建立知識庫前，先想清楚這6件事](https://www.bnext.com.tw/article/92404/enterprise-ai-knowledge-base-guide)
 - [跟AI說「別回傳資料」沒有用！安裝Skill前，先把這行網址設定刪掉](https://www.bnext.com.tw/article/91721/github-skill-install-security-check)
