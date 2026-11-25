@@ -1,8 +1,8 @@
 # 一天一AI — 文章摘要總覽
 
 > 來源：[數位時代「一天一AI」專欄](https://www.bnext.com.tw/tags/%E4%B8%80%E5%A4%A9%E4%B8%80AI)  
-> 整理日期：2026-11-20  
-> 共計 197 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
+> 整理日期：2026-11-25  
+> 共計 201 篇文章，涵蓋 AI 提示詞技巧、工具應用、職場效率等主題。
 
 ---
 
@@ -10,10 +10,10 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 197 篇 |
-| 本次新增 | 3 篇 |
+| 文章總數 | 201 篇 |
+| 本次新增 | 4 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-11-20 |
+| 更新日期 | 2026-11-25 |
 
 ---
 
@@ -21,7 +21,16 @@
 
 保留最近 2 次更新新增的文章, 發布時間為抓取當下的相對時間.
 
-### 2026-11-20 本次新增 (3 篇)
+### 2026-11-25 本次新增 (4 篇)
+
+| 標題 | 發布時間 | 分類 | 連結 |
+|------|----------|------|------|
+| Claude分析完，還能交給Gemini挑毛病！官方MCP設定教學，免費方案也能用 | 22分前 | 工具應用 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/93195/gemini-notebook-mcp-claude-setup) |
+| 請AI讀網頁、PDF，小心它被「惡意下指令」！6個防護重點一次看 | 22小時前 | AI 隱私安全＆企業策略 / 提示詞技巧 | [閱讀](https://www.bnext.com.tw/article/93186/ai-prompt-injection-security-tips) |
+| 怎麼利用Gemini準備考試？6步驟打造AI學習教練，從考照到孩子期中考都適用 | 1天前 | 工具應用 / 學習與個人成長 | [閱讀](https://www.bnext.com.tw/article/93163/gemini-ai-study-coach-tutorial) |
+| Claude又跳「已達使用上限」？5招讓額度更耐用，工作別做到一半卡住 | 6天前 | 工具應用 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/93115/claude-usage-limit-saving-tips) |
+
+### 2026-11-20 前次新增 (3 篇)
 
 | 標題 | 發布時間 | 分類 | 連結 |
 |------|----------|------|------|
@@ -29,21 +38,12 @@
 | Gemini技能叫了卻不照流程跑？從安裝到呼叫教學，讓AI照你的工作流執行 | 2天前 | 工具應用 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/93097/gemini-skills-setup-guide) |
 | 讓學生當業務、管工廠，組隊比誰賺最多！他用Gemini打造供應鏈實戰課 | 3天前 | 工具應用 / 學習與個人成長 | [閱讀](https://www.bnext.com.tw/article/93086/gemini-excel-supply-chain-simulation-game) |
 
-### 2026-11-16 前次新增 (5 篇)
-
-| 標題 | 發布時間 | 分類 | 連結 |
-|------|----------|------|------|
-| AI整理新聞，別只拿來看！這位業務多做一步，變成向客戶推薦產品的談資 | 2天前 | 工具應用 / 職場效率 | [閱讀](https://www.bnext.com.tw/article/93051/ai-skill-workflow) |
-| Claude聊久了開始變笨？這5招必學：逼它唱反調，卡住就摘要重開 | 3天前 | 提示詞技巧 / 工具應用 | [閱讀](https://www.bnext.com.tw/article/93029/claude-5-productivity-tips) |
-| AI可以幫忙寫工作日誌嗎？我實測讓它讀日曆、信箱重建一天工時，幫自己管好時間 | 4天前 | 職場效率 / 工具應用 | [閱讀](https://www.bnext.com.tw/article/93009/ai-work-log-time-tracking) |
-| Claude把圍棋作業變遊戲！不會寫程式，也能做出5關兒童陪練 | 5天前 | 工具應用 / 生活應用 | [閱讀](https://www.bnext.com.tw/article/92988/claude-artifacts-go-practice-game-for-kids) |
-| 不會下圍棋，也能陪孩子練棋？她把AI設定成「圍棋家教」，看作業、出題都包了 | 6天前 | 生活應用 / 學習與個人成長 | [閱讀](https://www.bnext.com.tw/article/92970/ai-go-practice-for-kids) |
-
 ---
 
 ## 主題分類
 
 ### 提示詞技巧（Prompt Engineering）
+- [請AI讀網頁、PDF，小心它被「惡意下指令」！6個防護重點一次看](https://www.bnext.com.tw/article/93186/ai-prompt-injection-security-tips)
 - [Claude聊久了開始變笨？這5招必學：逼它唱反調，卡住就摘要重開](https://www.bnext.com.tw/article/93029/claude-5-productivity-tips)
 - [PHP爆兩個9.2分漏洞，電腦需要更新嗎？一段提示詞，用AI檢查軟體版本](https://www.bnext.com.tw/article/92773/20261022-vibe-security-patch)
 - [年度計畫列太多，根本做不完？用這套AI提示詞，想清楚哪些事先不做](https://www.bnext.com.tw/article/92734/ai-annual-planning-strategy-prompts)
@@ -97,6 +97,9 @@
 - [這樣做，不必再幫AI擦屁股！一句「萬用提示詞」，幫你維持高效工作流](https://www.bnext.com.tw/article/90299/ai-workflow-step-plan-optimization)
 
 ### 工具應用（Tools）
+- [Claude分析完，還能交給Gemini挑毛病！官方MCP設定教學，免費方案也能用](https://www.bnext.com.tw/article/93195/gemini-notebook-mcp-claude-setup)
+- [怎麼利用Gemini準備考試？6步驟打造AI學習教練，從考照到孩子期中考都適用](https://www.bnext.com.tw/article/93163/gemini-ai-study-coach-tutorial)
+- [Claude又跳「已達使用上限」？5招讓額度更耐用，工作別做到一半卡住](https://www.bnext.com.tw/article/93115/claude-usage-limit-saving-tips)
 - [Gemini技能叫了卻不照流程跑？從安裝到呼叫教學，讓AI照你的工作流執行](https://www.bnext.com.tw/article/93097/gemini-skills-setup-guide)
 - [讓學生當業務、管工廠，組隊比誰賺最多！他用Gemini打造供應鏈實戰課](https://www.bnext.com.tw/article/93086/gemini-excel-supply-chain-simulation-game)
 - [AI整理新聞，別只拿來看！這位業務多做一步，變成向客戶推薦產品的談資](https://www.bnext.com.tw/article/93051/ai-skill-workflow)
@@ -185,6 +188,8 @@
 - [用Gemini追WBC中華隊賽事超方便！3步驟把賽程排進你的Google行事曆](https://www.bnext.com.tw/article/90211/wbc-gemini-google-calendar-tutorial)
 
 ### 職場效率（Workplace Productivity）
+- [Claude分析完，還能交給Gemini挑毛病！官方MCP設定教學，免費方案也能用](https://www.bnext.com.tw/article/93195/gemini-notebook-mcp-claude-setup)
+- [Claude又跳「已達使用上限」？5招讓額度更耐用，工作別做到一半卡住](https://www.bnext.com.tw/article/93115/claude-usage-limit-saving-tips)
 - [公司個資不能丟給AI，問卷怎麼分析？請AI做離線小工具，先換代號、再找洞察](https://www.bnext.com.tw/article/93136/ai-offline-personal-data-masking-tool)
 - [Gemini技能叫了卻不照流程跑？從安裝到呼叫教學，讓AI照你的工作流執行](https://www.bnext.com.tw/article/93097/gemini-skills-setup-guide)
 - [AI整理新聞，別只拿來看！這位業務多做一步，變成向客戶推薦產品的談資](https://www.bnext.com.tw/article/93051/ai-skill-workflow)
@@ -273,6 +278,7 @@
 - [AI 商業翻譯好用嗎？文藻翻譯系主任指出 4 大盲點，附「避雷」提示詞範例參考](https://www.bnext.com.tw/article/90047/ai-translation-professional-guide-from-professor)
 
 ### 學習與個人成長
+- [怎麼利用Gemini準備考試？6步驟打造AI學習教練，從考照到孩子期中考都適用](https://www.bnext.com.tw/article/93163/gemini-ai-study-coach-tutorial)
 - [讓學生當業務、管工廠，組隊比誰賺最多！他用Gemini打造供應鏈實戰課](https://www.bnext.com.tw/article/93086/gemini-excel-supply-chain-simulation-game)
 - [不會下圍棋，也能陪孩子練棋？她把AI設定成「圍棋家教」，看作業、出題都包了](https://www.bnext.com.tw/article/92970/ai-go-practice-for-kids)
 - [用AI工作會讓能力退化嗎？從勞動異化看4種風險：做夠了，也要敢停下來！](https://www.bnext.com.tw/article/92890/ai-work-skill-decline-alienation)
@@ -328,6 +334,7 @@
 - [用Gemini追WBC中華隊賽事超方便！3步驟把賽程排進你的Google行事曆](https://www.bnext.com.tw/article/90211/wbc-gemini-google-calendar-tutorial)
 
 ### AI 隱私安全 ＆ 企業策略
+- [請AI讀網頁、PDF，小心它被「惡意下指令」！6個防護重點一次看](https://www.bnext.com.tw/article/93186/ai-prompt-injection-security-tips)
 - [公司個資不能丟給AI，問卷怎麼分析？請AI做離線小工具，先換代號、再找洞察](https://www.bnext.com.tw/article/93136/ai-offline-personal-data-masking-tool)
 - [PHP爆兩個9.2分漏洞，電腦需要更新嗎？一段提示詞，用AI檢查軟體版本](https://www.bnext.com.tw/article/92773/20261022-vibe-security-patch)
 - [PDF蓋黑框，ChatGPT竟然還讀得到？傳給AI前，個資要這樣遮才安全](https://www.bnext.com.tw/article/92585/pdf-black-box-ai-privacy)
